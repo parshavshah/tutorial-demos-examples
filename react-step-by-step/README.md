@@ -4,12 +4,12 @@ Here's a structured **step-by-step** topic list to help you prepare for your **R
 
 ### **1. React Basics**
 
-✅ [What is React & Why Use It?](01_basic_1.md)
-✅ [React vs. Vanilla JavaScript ](01_basic_2.md)
-✅ [JSX – What & Why? ](01_basic_3.md)
-✅ [Components (Functional vs. Class) ](01_basic_4.md)
-✅ [Props & State ](01_basic_5.md)
-✅ [Handling Events in React](01_basic_6.md)
+✅ What is React & Why Use It? [Read...](01_basic_1.md)
+✅ React vs. Vanilla JavaScript [Read...](01_basic_2.md)
+✅ JSX – What & Why? [Read...](01_basic_3.md)
+✅ Components (Functional vs. Class) [Read...](01_basic_4.md)
+✅ Props & State [Read...](01_basic_5.md)
+✅ Handling Events in React [Read...](01_basic_6.md)
 
 ---
 
