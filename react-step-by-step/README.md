@@ -4,32 +4,32 @@ Here's a structured **step-by-step** topic list to help you prepare for your **R
 
 ### **1. React Basics**
 
-✅ What is React & Why Use It? [Read...](01_basic_1.md)
-✅ React vs. Vanilla JavaScript [Read...](01_basic_2.md)
-✅ JSX – What & Why? [Read...](01_basic_3.md)
-✅ Components (Functional vs. Class) [Read...](01_basic_4.md)
-✅ Props & State [Read...](01_basic_5.md)
-✅ Handling Events in React [Read...](01_basic_6.md)
+✅ [What is React & Why Use It?](01_basic_1.md)<br/>
+✅ [React vs. Vanilla JavaScript](01_basic_2.md)<br/>
+✅ [JSX – What & Why?](01_basic_3.md)<br/>
+✅ [Components (Functional vs. Class)](01_basic_4.md)<br/>
+✅ [Props & State](01_basic_5.md)<br/>
+✅ [Handling Events in React](01_basic_6.md)<br/>
 
 ---
 
 ### **2. React Components & Lifecycle**
 
-✅ Component Lifecycle Methods  
-✅ useState Hook (State Management)  
-✅ useEffect Hook (Side Effects & Lifecycle in Functional Components)  
-✅ React Fragments & Conditional Rendering  
-✅ List Rendering & Keys  
-✅ Controlled vs. Uncontrolled Components
+✅ [Component Lifecycle Methods ](02_components_lifecycle_1.md)<br/>
+✅ [useState Hook (State Management) ](02_components_lifecycle_2.md)<br/>
+✅ [useEffect Hook (Side Effects & Lifecycle in Functional Components) ](02_components_lifecycle_3.md)<br/>
+✅ [React Fragments & Conditional Rendering ](02_components_lifecycle_4.md)<br/>
+✅ [List Rendering & Keys ](02_components_lifecycle_5.md)<br/>
+✅ [Controlled vs. Uncontrolled Components](02_components_lifecycle_6.md)<br/>
 
 ---
 
 ### **3. React Hooks (Advanced Concepts)**
 
-✅ useState, useEffect, and useRef Hook  
-✅ useMemo & useCallback (Performance Optimization)  
-✅ useContext (Avoid Prop Drilling)  
-✅ Custom Hooks (Reusability & Best Practices)
+✅ [useState, useEffect, and useRef Hook ](03_hooks_1.md)<br/>
+✅ [useMemo & useCallback (Performance Optimization) ](03_hooks_2.md)<br/>
+✅ [useContext (Avoid Prop Drilling) ](03_hooks_3.md)<br/>
+✅ [Custom Hooks (Reusability & Best Practices)](03_hooks_4.md)<br/>
 
 ---
 
